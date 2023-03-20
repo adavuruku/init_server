@@ -1,0 +1,45 @@
+{
+    "accounts":{
+        "5521012101": {
+            "name":"Abdulraheem Sherif Adavuruku",
+            "accountNumber":"5521012101",
+            "nuban":"0234782101",
+            "status":"Active",
+            "currencyID":"NGN",
+            "availableBalance":451150.00,
+            "totalBalance":451000.00,
+            "drawableBalance":450000.00
+        },
+        "0231012101": {
+            "name":"James Oluwatobi",
+            "accountNumber":"0231012101",
+            "nuban":"0231012333",
+            "status":"Active",
+            "currencyID":"NGN",
+            "availableBalance":451150.00,
+            "totalBalance":451000.00,
+            "drawableBalance":450000.00
+        },
+        "inquiry":{
+            "08143101012":{
+                "accountNo": "1911901234",
+                "iban": "0234782121",
+                "accountName": "Abdulraheem Sherif Adavuruku",
+                "currency": "NGN"
+            },
+            "sherif@gmail.com":{
+                "accountNo": "1000023011",
+                "iban": "1010234120",
+                "accountName": "Adamu Zakari",
+                "currency": "NGN"
+            },
+            "0234782101":{
+                "accountNo": "0234782101",
+                "iban": "2341234567",
+                "accountName": "Abdulraheem Sherif Adavuruku",
+                "currency": "NGN"
+            }
+        }
+    }
+
+}
