@@ -42,5 +42,78 @@
         "iban": "2341234567",
         "accountName": "Abdulraheem Sherif Adavuruku",
         "currency": "NGN"
-    }
+    },
+    "cards" : [
+            {
+                "id":1,
+                "customerId":233,
+                "cardHolderName":"Adams Ojo",
+                "expiryDate":"2023-02-12",
+                "cardToken":"weaeretds",
+                "countryCode":"NG",
+                "cardType":"Master",
+                "verified": true,
+                "last4digits":"4532",
+                "createdDate":"2023-02-12"
+            },
+            {
+                "id":2,
+                "customerId":233,
+                "cardHolderName":"Adams Ojo",
+                "expiryDate":"2026-02-12",
+                "cardToken":"weaeretds_otf",
+                "countryCode":"NG",
+                "cardType":"Master",
+                "verified": true,
+                "last4digits":"4532",
+                "createdDate":"2023-04-12"
+            },{
+                "id":3,
+                "customerId":233,
+                "cardHolderName":"Adams Ojo",
+                "expiryDate":"2025-02-12",
+                "cardToken":"weaereER_tds",
+                "countryCode":"NG",
+                "cardType":"Verve",
+                "verified": true,
+                "last4digits":"4002",
+                "createdDate":"2023-06-12"
+            }
+    ],
+            "3":{
+                    "id":3,
+                    "customerId":233,
+                    "cardHolderName":"Adams Ojo",
+                    "expiryDate":"2025-02-12",
+                    "cardToken":"weaereER_tds",
+                    "countryCode":"NG",
+                    "cardType":"Verve",
+                    "verified": true,
+                    "last4digits":"4002",
+                    "createdDate":"2023-06-12"
+            },
+        "2":{
+                    "id":2,
+                    "customerId":233,
+                    "cardHolderName":"Adams Ojo",
+                    "expiryDate":"2026-02-12",
+                    "cardToken":"weaeretds_otf",
+                    "countryCode":"NG",
+                    "cardType":"Master",
+                    "verified": true,
+                    "last4digits":"4532",
+                    "createdDate":"2023-04-12"
+            },
+            "1":{
+                    "id":1,
+                    "customerId":233,
+                    "cardHolderName":"Adams Ojo",
+                    "expiryDate":"2023-02-12",
+                    "cardToken":"weaeretds",
+                    "countryCode":"NG",
+                    "cardType":"Master",
+                    "verified": true,
+                    "last4digits":"4532",
+                    "createdDate":"2023-02-12"
+            }
 }
