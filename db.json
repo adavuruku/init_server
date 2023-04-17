@@ -20,18 +20,24 @@
         "drawableBalance":450000.00
     },
     "08143101012":{
+        "accountId": "12345",
+        "productId": "11450",
         "accountNo": "1911901234",
         "iban": "0234782121",
         "accountName": "Abdulraheem Sherif Adavuruku",
         "currency": "NGN"
     },
     "sherif@gmail.com":{
+        "accountId": "12346",
+        "productId": "11451",
         "accountNo": "1000023011",
         "iban": "1010234120",
         "accountName": "Adamu Zakari",
         "currency": "NGN"
     },
     "0234782101":{
+        "accountId": "12347",
+        "productId": "11452",
         "accountNo": "0234782101",
         "iban": "2341234567",
         "accountName": "Abdulraheem Sherif Adavuruku",
